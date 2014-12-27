@@ -14,13 +14,13 @@ Any number of youtube videos can be defined for a mod, within a json array under
 
 The tags currently defined for a video are as follows:
 
-*type (optional): Defining the type of video, such as Gameplay, Showcase, etc. Showcase defines a video where the mod is the central focus of the video, the video was made to showcase features of the mod. Gameplay defines a video where the mod was used during gameplay
-*video (required): The youtube code that identifies the video
-*list (optional): A youtube playlist that the video is a member of
+* type (optional): Defining the type of video, such as Gameplay, Showcase, etc. Showcase defines a video where the mod is the central focus of the video, the video was made to showcase features of the mod. Gameplay defines a video where the mod was used during gameplay
+* video (required): The youtube code that identifies the video
+* list (optional): A youtube playlist that the video is a member of
 
 #New tags
 
 Anyone can define new tags for new types of data (and additional tags for existing data), as long as:
-*The format is defined above
-*The format is in keeping with existing tags within that data type (or similar existing data types if we are defining a new data type)
-*The format makes sense for the type of data being stored
+* The format is defined above
+* The format is in keeping with existing tags within that data type (or similar existing data types if we are defining a new data type)
+* The format makes sense for the type of data being stored
