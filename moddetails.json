@@ -21,6 +21,14 @@
 				"type":"Tutorial",
 				"video":"jVPogbvyUTg",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"T8kDWnOyAic"
+			},
+			{
+				"type":"Gameplay",
+				"video":"83fjqJM67FM"
 			}
 		]
 	},
@@ -51,6 +59,10 @@
 				"type":"Tutorial",
 				"video":"ebE_AF4ki5A",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI"
 			}
 		]
 	},
@@ -135,6 +147,11 @@
 				"type":"Tutorial",
 				"video":"Bfa0Lehu9OI",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI",
+				"time":3720
 			}
 		]
 	},
@@ -258,6 +275,11 @@
 				"type":"Tutorial",
 				"video":"v-KjgICXU70",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI",
+				"time":2130
 			}
 		]
 	},
@@ -278,6 +300,11 @@
 				"type":"Tutorial",
 				"video":"v-KjgICXU70",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI",
+				"time":2130
 			}
 		]
 	},
@@ -288,6 +315,40 @@
 				"type":"Tutorial",
 				"video":"v-KjgICXU70",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI",
+				"time":2130
+			}
+		]
+	},
+	{
+		"identifier":"com.wondible.pa.puppetmaster",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"BRNMrwKg1dk"
+			},
+			{
+				"type":"Gameplay",
+				"video":"tyKaBiR2b9s"
+			},
+			{
+				"type":"Gameplay",
+				"video":"y7hlKzyN8fg"
+			},
+			{
+				"type":"Gameplay",
+				"video":"jxvU7iNSV3k"
+			},
+			{
+				"type":"Gameplay",
+				"video":"s0fF3ZuwTb4"
+			},
+			{
+				"type":"Gameplay",
+				"video":"-qFfH5Ck3Mw"
 			}
 		]
 	},
@@ -298,6 +359,11 @@
 				"type":"Tutorial",
 				"video":"v-KjgICXU70",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI",
+				"time":2130
 			}
 		]
 	},
@@ -308,6 +374,11 @@
 				"type":"Tutorial",
 				"video":"v-KjgICXU70",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"FqM3TBaPWzI",
+				"time":2130
 			}
 		]
 	},
