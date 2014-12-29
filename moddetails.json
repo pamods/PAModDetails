@@ -5,7 +5,12 @@
 			{
 				"type":"Gameplay",
 				"video":"JRwZjOFeFk0",
-				"desc":"Comm Boxing gameplay using this mod, and Redenbacher Deluxe."
+				"desc":"Comm Boxing gameplay on a moon using this mod, and Redenbacher Deluxe."
+			},
+			{
+				"type":"Gameplay",
+				"video":"2wYW6799X_k",
+				"desc":"Comm Boxing gameplay on a metal planet using this mod, and Redenbacher Deluxe."
 			}
 		]
 	},
@@ -85,7 +90,12 @@
 			{
 				"type":"Gameplay",
 				"video":"JRwZjOFeFk0",
-				"desc":"Comm Boxing gameplay using this mod, and Rolloff Remover."
+				"desc":"Comm Boxing gameplay on a moon using this mod, and Rolloff Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"2wYW6799X_k",
+				"desc":"Comm Boxing gameplay on a metal planet using this mod, and Rolloff Remover."
 			}
 		]
 	},
@@ -96,6 +106,15 @@
 				"type":"Tutorial",
 				"video":"OPEZj2bclqM",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.superouman.CustomSkybox",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"tenDlJZ3790"
 			}
 		]
 	},
@@ -165,8 +184,15 @@
 			{
 				"type":"Tutorial",
 				"video":"QNSdrOPdOoQ",
-				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
+				"desc":"An explanation of what the mod does."
+			},
+			{
+				"type":"Tutorial",
+				"video":"HWHAMGg5QmU",
+				"desc":"Brian Purkiss showing cinematically what the mod does."
 			}
+			
 		]
 	},
 	{
@@ -266,7 +292,13 @@
 				"type":"Tutorial",
 				"video":"_Lu212FayPE",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			},
+			{
+				"type":"Gameplay",
+				"video":"83fjqJM67FM",
+				"time":2520
 			}
+			
 		]
 	},
 	{

@@ -18,6 +18,7 @@ The tags currently defined for a video are as follows:
 * video (required): The youtube code that identifies the video
 * list (optional): A youtube playlist that the video is a member of
 * desc (optional): A short plaintext description of the video
+* time (optional): A time in seconds to begin playback from, relative to the start of the video
 
 #New tags
 
