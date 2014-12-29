@@ -17,6 +17,7 @@ The tags currently defined for a video are as follows:
 * type (optional): Defining the type of video, such as Gameplay, Tutorial, etc. Tutorial defines a video where the mod is the central focus of the video, the video was made to showcase features of the mod. Gameplay defines a video where the mod was used during gameplay
 * video (required): The youtube code that identifies the video
 * list (optional): A youtube playlist that the video is a member of
+* desc (optional): A short plaintext description of the video
 
 #New tags
 
