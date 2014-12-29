@@ -3,7 +3,7 @@
 		"identifier":"com.Maldor96.Factories.RolloffRemove",
 		"youtube":[
 			{
-				"type":"gameplay",
+				"type":"Gameplay",
 				"video":"JRwZjOFeFk0",
 				"desc":"Comm Boxing gameplay using this mod, and Redenbacher Deluxe."
 			}
@@ -83,7 +83,7 @@
 		"identifier":"com.pa.lyrid.RedenbacherDeluxe",
 		"youtube":[
 			{
-				"type":"gameplay",
+				"type":"Gameplay",
 				"video":"JRwZjOFeFk0",
 				"desc":"Comm Boxing gameplay using this mod, and Rolloff Remover."
 			}
