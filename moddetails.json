@@ -79,6 +79,13 @@
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"1.4.7"
 			}
+		],
+		"images":[
+			{
+				"url":"http://pa-mods.com/mod-database2/images/cShareSystems_servers.jpg",
+				"desc":"Selecting a server to search for shared systems.",
+				"version":"1.6.6"
+			}
 		]
 	},
 	{
@@ -126,6 +133,28 @@
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"1.40"
 			}
+		],
+		"images":[
+			{
+				"url":"http://pa-mods.com/mod-database2/images/hotbuild2_settings.jpg",
+				"desc":"The hotbuild settings tab, showing impressive customisation options.",
+				"version":"1.40"
+			},
+			{
+				"url":"http://pa-mods.com/mod-database2/images/hotbuild2_build_bar.jpg",
+				"desc":"The commander build bar, using the community default WASD settings.",
+				"version":"1.40"
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.raevn.rcommanderhp",
+		"images":[
+			{
+				"url":"http://pa-mods.com/mod-database2/images/com.pa.raevn.rcommanderhp_live.png",
+				"desc":"The commander tracker in the HUD",
+				"version":"3.4"
+			}
 		]
 	},
 	{
@@ -138,12 +167,29 @@
 		]
 	},
 	{
+		"identifier":"com.pa.trialq.eco_manager",
+		"images":[
+			{
+				"url":"http://pa-mods.com/mod-database2/images/com.pa.trialq.eco_manager_live.png",
+				"desc":"The added HUD buttons to manage economy; here we see fabricators have been disabled from using economy.",
+				"version":"1.3"
+			}
+		]
+	},
+	{
 		"identifier":"com.pa.trialq.tAutoFactory",
 		"youtube":[
 			{
 				"type":"Tutorial",
 				"video":"WyaoRDtOZ30",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
+				"version":"1.8.4"
+			}
+		],
+		"images":[
+			{
+				"url":"http://pa-mods.com/mod-database2/images/tAutoFactory_settings.jpg",
+				"desc":"Some of the customisation options available from the settings menu.",
 				"version":"1.8.4"
 			}
 		]
@@ -314,6 +360,16 @@
 				"type":"Tutorial",
 				"video":"i6RscztwoPU",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g"
+			}
+		]
+	},
+	{
+		"identifier":"com.wondible.pa.instant_sandbox",
+		"images":[
+			{
+				"url":"http://pa-mods.com/mod-database2/images/com.wondible.pa.instant_sandbox_start.png",
+				"desc":"The instant sandbox button on the main menu.",
+				"version":"2.5.1"
 			}
 		]
 	},
