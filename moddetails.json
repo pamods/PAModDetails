@@ -195,6 +195,13 @@
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"1.3"
 			}
+		],
+		"images":[
+			{
+				"desc":"A compiled screenshot, showing all loadouts added by this mod.",
+				"url":"http://pa-mods.com/mod-database/images/com.pa.trialq.tGWLoadout_v1.4.1.jpg",
+				"version":"1.4.1"
+			}
 		]
 	},
 	{
