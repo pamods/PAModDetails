@@ -520,13 +520,16 @@
 				"type":"Gameplay",
 				"video":"eTeLmV3xTb4",
 				"desc":"1vs1 on the Kingdoms Collide map."
-
 			},
 			{
 				"type":"Gameplay",
 				"video":"5s78xPvqY2I",
 				"desc":"The mod used in another 1vs1."
-
+			},
+			{
+				"type":"Tutorial",
+				"video":"E8GO6aWGCRc",
+				"desc":"How to map a system to be used with this mod."
 			}
 		]
 	},
@@ -548,7 +551,6 @@
 				"video":"61e347ZZmW0",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"Autoupdating_v2"
-
 			}
 		]
 	},
