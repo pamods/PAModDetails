@@ -514,6 +514,33 @@
 		]
 	},
 	{
+		"identifier":"info.nanodesu.epicpa",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"eTeLmV3xTb4",
+				"desc":"1vs1 on the Kingdoms Collide map."
+
+			},
+			{
+				"type":"Gameplay",
+				"video":"5s78xPvqY2I",
+				"desc":"The mod used in another 1vs1."
+
+			}
+		]
+	},
+	{
+		"identifier":"info.nanodesu.minimap",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"6fOHVSNU-RM",
+				"desc":"A 1vs1, with the alerts minimap displayed in the top left."
+			}
+		]
+	},
+	{
 		"identifier":"info.nanodesu.pastats",
 		"youtube":[
 			{
