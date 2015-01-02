@@ -1,0 +1,162 @@
+[
+	{
+		"context":"map",
+		"author":"w33dkingca",
+		"forum":"https://forums.uberent.com/threads/66474/",
+		"display_name":"The Divide",
+		"description":"A symmetrical planet with a ribbon of almost encompassing water, with water spawns either end. The forested land contains many choke points, formed by plateau's and narrow land bridges.",
+		"version":"2",
+		"date":"2014/12/12",
+		"md5":"05d55d2698c07ac1b2fa21fc8e07f635"
+	},
+	{
+		"context":"map",
+		"author":"w33dkingca",
+		"forum":"https://forums.uberent.com/threads/66474/",
+		"display_name":"Choke Point",
+		"description":"A small symmetrical lava planet largely covered in lava. A single island contains a large battleground (roughly split into 3 lanes by terrain features), and a narrower (long way round) battleground.",
+		"version":"1",
+		"date":"2014/12/12",
+		"md5":"bc84a1226d7eefc28edbb93d22ccdb75"
+	},
+	{
+		"context":"map",
+		"author":"squishypon3",
+		"forum":"https://forums.uberent.com/threads/66645/",
+		"display_name":"Finn's Vengeance",
+		"description":"A small (radius 304) symmetrical tropical planet, with well distributed metal spots. Inspired by the Supreme Commander map 'Finn's Revenge'.",
+		"version":"1",
+		"date":"2014/12/20",
+		"md5":"17ed646bb275b1abfa6e09bc6317ef51"
+	},
+	{
+		"context":"map",
+		"author":"Alpha2546",
+		"forum":"https://forums.uberent.com/threads/66508/",
+		"display_name":"L@v@ C@rn@ge",
+		"description":"A small lava planet (radius 400). Half of the planet is covered in lava, the other half has some nice choke points. Designed for quick games, 4 player FFA or 2v2.",
+		"version":"16",
+		"date":"2014/12/14",
+		"md5":"68f70be22e158891c7567cd703c2fcf7"
+	},
+	{
+		"context":"map",
+		"author":"Alpha2546",
+		"forum":"https://forums.uberent.com/threads/66508/",
+		"display_name":"The T3mple",
+		"description":"A small forested planet, designed for 4 player FFA or 2v2. One side has a large temple containing many metal spots, the other a lake, with a heavily forested area containing spawn points in between (with choke points in between the spawns, created by terrain features).",
+		"version":"2",
+		"date":"2014/12/24",
+		"md5":"350098fe753115abfe3a6355b5bdc3a9"
+	},
+	{
+		"context":"map",
+		"author":"ishytarus",
+		"forum":"https://forums.uberent.com/threads/66680/",
+		"display_name":"Ignus",
+		"description":"A 500 radius lava planet designed for 2 armies (up to 3v3 recommended), with a single spawn per army. Contains choke points, open areas, and sporadic metal spots.",
+		"version":"1",
+		"date":"2014/12/22",
+		"md5":"a563cb48c51c182e73ec1f5b91fdb348"
+	},
+	{
+		"context":"map",
+		"author":"Gandalf",
+		"forum":"https://forums.uberent.com/threads/66207/page-4#post-1041396",
+		"display_name":"Kingdoms Collide",
+		"description":"An interesting 1v1 (or 2v2, 3v3, ...) map, with much height variation, clustered and sporadic metal, and terrain features forming obstacles and choke points. Made for use with the server mod 'Epic PA', although the mod is not required.",
+		"version":"1",
+		"date":"2014/12/05",
+		"md5":"432119fdd3c268c39e77f33e326da96c"
+	},
+	{
+		"context":"map",
+		"author":"Gandalf",
+		"forum":"https://forums.uberent.com/threads/66207/page-3#post-1040375",
+		"display_name":"Canyon Wars",
+		"description":"An 8 player FFA (required) map, covered with large chasms, breaking up the entire surface into small areas. Metal spots are plentiful and distributed evenly.",
+		"version":"1.3",
+		"date":"2014/12/03",
+		"md5":"7b05d503b3fb266ce96a23a323aad6f0"
+	},
+	{
+		"context":"map",
+		"author":"Gandalf",
+		"forum":"https://forums.uberent.com/threads/66207/page-2#post-1039900",
+		"display_name":"Snow Arena",
+		"description":"An arena map with plenty of well distributed metal spots, with multiple lanes. A smaller version of the map 'Team Arena', meant for 1v1 play.",
+		"version":"1.1",
+		"date":"2014/12/02",
+		"md5":"83fdaeca9675e86e073fad20207c3490"
+	},
+	{
+		"context":"map",
+		"author":"Gandalf",
+		"forum":"https://forums.uberent.com/threads/66207/page-2#post-1039645",
+		"display_name":"IceAge",
+		"description":"A 1v1 watery ice planet, containing a network of land masses connected by narrow strips of land and metal bridges. There are many small lakes, and a larger ocean.",
+		"version":"1.1",
+		"date":"2014/12/05",
+		"md5":"03ce249adca68bc1f5c25271350795a1"
+	},
+	{
+		"context":"map",
+		"author":"Gandalf",
+		"forum":"https://forums.uberent.com/threads/66207/page-2#post-1039187",
+		"display_name":"Prof X",
+		"description":"A 2v2 map with sheltered spawns, a large central battlefield (in the shape of an X), and a back area accessible only by air. Spawns only work with 2 armies, ie 3v3 will work but not 1v1v1.",
+		"version":"1",
+		"date":"2014/11/29",
+		"md5":"df6f0eea5783e4ada9e2c877a84527bc"
+	},
+	{
+		"context":"map",
+		"author":"Gandalf",
+		"forum":"https://forums.uberent.com/threads/66207/#post-1038877",
+		"display_name":"Team Arena",
+		"description":"An arena map with plenty of well distributed metal spots, with multiple lanes. Designed for team play.",
+		"version":"13",
+		"date":"2014/12/02",
+		"md5":"f411f9821c599a6d50b069f8a590f63d"
+	},
+	{
+		"context":"map",
+		"author":"FartKing",
+		"forum":"https://forums.uberent.com/threads/66849/",
+		"display_name":"Sector 3B",
+		"description":"A 3 planet system (lava 800 radius, moon 500 radius, death star 550 radius). The lava planet is split into 3 sectors, land units cannot move between sectors.",
+		"version":"1",
+		"date":"2014/12/29",
+		"md5":"90cae1b0d1b8b0abac6a5d5fe73079aa"
+	},
+	{
+		"context":"map",
+		"author":"ballsonfire",
+		"forum":"https://forums.uberent.com/threads/66831/",
+		"display_name":"Hot Platforms",
+		"description":"A 4-way mirrored lava map, with 4 land masses connected to a central land mass via narrow bridges. Suitable for a 4 player FFA, or a team 2v2.",
+		"version":"12",
+		"date":"2015/01/01",
+		"md5":"8a1f3a63e6121f81dc09fd62793d034d"
+	},
+	{
+		"context":"map",
+		"author":"ballsonfire",
+		"forum":"https://forums.uberent.com/threads/66091/",
+		"display_name":"Fields of Isis (with metal island)",
+		"description":"A recreation of a classic Supreme Commander map, with an additional island accessible only by air and orbital.",
+		"version":"1",
+		"date":"2014/11/28",
+		"md5":"982b4ce83b102a33382380a23ac5df0b"
+	},
+	{
+		"context":"map",
+		"author":"ballsonfire",
+		"forum":"https://forums.uberent.com/threads/66091/",
+		"display_name":"Fields of Isis",
+		"description":"A recreation of a classic Supreme Commander map.",
+		"version":"1",
+		"date":"2014/11/28",
+		"md5":"3a7673078428214d69519bfac68aebb9"
+	}
+]
