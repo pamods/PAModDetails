@@ -47,7 +47,15 @@
 		"description":"A small forested planet, designed for 4 player FFA or 2v2. One side has a large temple containing many metal spots, the other a lake, with a heavily forested area containing spawn points in between (with choke points in between the spawns, created by terrain features).",
 		"version":"2",
 		"date":"2014/12/24",
-		"md5":"350098fe753115abfe3a6355b5bdc3a9"
+		"md5":"350098fe753115abfe3a6355b5bdc3a9",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"1XiHH76qRrc",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"2"
+			}
+		]
 	},
 	{
 		"context":"map",
@@ -137,7 +145,24 @@
 		"description":"A 4-way mirrored lava map, with 4 land masses connected to a central land mass via narrow bridges. Suitable for a 4 player FFA, or a team 2v2.",
 		"version":"12",
 		"date":"2015/01/01",
-		"md5":"8a1f3a63e6121f81dc09fd62793d034d"
+		"md5":"8a1f3a63e6121f81dc09fd62793d034d",
+		"images":[
+			{
+				"url":"http://pa-mods.com/maps/hot_platforms_spawn.jpg",
+				"desc":"Each player spawns on an isolated area.",
+				"version":"12"
+			},
+			{
+				"url":"http://pa-mods.com/maps/hot_platforms_center.jpg",
+				"desc":"Spawns areas are connected to a metal rich central area via narrow land bridges",
+				"version":"12"
+			},
+			{
+				"url":"http://pa-mods.com/maps/hot_platforms_back.jpg",
+				"desc":"The back area is a shortcut for air raids.",
+				"version":"12"
+			}
+		]
 	},
 	{
 		"context":"map",
