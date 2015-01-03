@@ -56,6 +56,16 @@
 		]
 	},
 	{
+		"identifier":"com.pa.conundrum.cLeagueOfCommanders",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"_cphyAQjnS8",
+				"desc":"Beta version 3v3 gameplay on a single planet."
+			}
+		]
+	},
+	{
 		"identifier":"com.pa.conundrum.cOrbitalCommander",
 		"youtube":[
 			{
@@ -96,6 +106,36 @@
 				"video":"CPwLBOu-UTY",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"1.4.2"
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.killerkiwijuice.antlyf",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"8rpkwxcVCuY",
+				"desc":"10 player FFA gameplay on a large moon."
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.killerkiwijuice.bettercommboxing",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"wNTNGGqDduE",
+				"desc":"7 player FFA gameplay on a lava planet."
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.killerkiwijuice.doxlyf",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"McbRX5JIimM",
+				"desc":"10 player FFA gameplay on a large moon."
 			}
 		]
 	},

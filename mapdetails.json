@@ -125,7 +125,19 @@
 		"description":"An arena map with plenty of well distributed metal spots, with multiple lanes. Designed for team play.",
 		"version":"13",
 		"date":"2014/12/02",
-		"md5":"f411f9821c599a6d50b069f8a590f63d"
+		"md5":"f411f9821c599a6d50b069f8a590f63d",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"6mq6938ahkY",
+				"desc":"Asymmetric 2v2 gameplay."
+			},
+			{
+				"type":"Gameplay",
+				"video":"JCIMRucGYk4",
+				"desc":"Short asymmetric 5v5 gameplay."
+			}
+		]
 	},
 	{
 		"context":"map",
