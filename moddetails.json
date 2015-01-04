@@ -15,6 +15,16 @@
 		]
 	},
 	{
+		"identifier":"com.pa.Advanced.rebalance",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"6H32_u9fi24",
+				"desc":"Brian Purkiss casts gameplay from October 2014."
+			}
+		]
+	},
+	{
 		"identifier":"com.pa.burntcustard.bBoomBotWars",
 		"youtube":[
 			{
