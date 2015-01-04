@@ -44,7 +44,7 @@
 			},
 			{
 				"url":"http://pa-mods.com/maps/hot_platforms_center.jpg",
-				"desc":"Spawns areas are connected to a metal rich central area via narrow land bridges",
+				"desc":"Spawns areas are connected to a metal rich central area via narrow land bridges.",
 				"version":"12"
 			},
 			{
@@ -168,6 +168,33 @@
 	},
 	{
 		"context":"map",
+		"author":"ishytarus",
+		"forum":"https://forums.uberent.com/threads/66680/",
+		"display_name":"Ice Bound",
+		"description":"4 easily defensible spawns encompass a small battlefield on one half of the planet. The other half of the planet is a large, open battlefield.",
+		"version":"1",
+		"date":"2015/01/04",
+		"md5":"f63570732e8311f4bfb5b957fc12d8da",
+		"images":[
+			{
+				"url":"http://pa-mods.com/maps/ice_bound_spawn.jpg",
+				"desc":"Plateaus make for easy defense and striking scenery.",
+				"version":"1"
+			},
+			{
+				"url":"http://pa-mods.com/maps/ice_bound_front.jpg",
+				"desc":"A small central battlefield containing vital resources.",
+				"version":"1"
+			},
+			{
+				"url":"http://pa-mods.com/maps/ice_bound_back.jpg",
+				"desc":"The back area is a large open battlefield.",
+				"version":"1"
+			}
+		]
+	},
+	{
+		"context":"map",
 		"author":"squishypon3",
 		"forum":"https://forums.uberent.com/threads/66645/",
 		"display_name":"Finn's Vengeance",
@@ -191,7 +218,7 @@
 		"author":"w33dkingca",
 		"forum":"https://forums.uberent.com/threads/66474/",
 		"display_name":"The Divide",
-		"description":"A symmetrical planet with a ribbon of almost encompassing water, with water spawns either end. The forested land contains many choke points, formed by plateau's and narrow land bridges.",
+		"description":"A symmetrical planet with a ribbon of almost encompassing water, with water spawns either end. The forested land contains many choke points, formed by plateaus and narrow land bridges.",
 		"version":"2",
 		"date":"2014/12/12",
 		"md5":"05d55d2698c07ac1b2fa21fc8e07f635"
