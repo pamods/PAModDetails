@@ -52,6 +52,15 @@
 				"desc":"The back area is a shortcut for air raids.",
 				"version":"12"
 			}
+		],
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"YxAlL9t7h1U",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"12",
+				"desc":"Showing features of the map."
+			}
 		]
 	},
 	{
@@ -102,7 +111,16 @@
 		"description":"An 8 player FFA (required) map, covered with large chasms, breaking up the entire surface into small areas. Metal spots are plentiful and distributed evenly.",
 		"version":"1.3",
 		"date":"2014/12/03",
-		"md5":"7b05d503b3fb266ce96a23a323aad6f0"
+		"md5":"7b05d503b3fb266ce96a23a323aad6f0",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"amKdtDWDWtI",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"1.3",
+				"desc":"Showing features of the map."
+			}
+		]
 	},
 	{
 		"context":"map",
@@ -122,7 +140,16 @@
 		"description":"A 1v1 watery ice planet, containing a network of land masses connected by narrow strips of land and metal bridges. There are many small lakes, and a larger ocean.",
 		"version":"1.1",
 		"date":"2014/12/05",
-		"md5":"03ce249adca68bc1f5c25271350795a1"
+		"md5":"03ce249adca68bc1f5c25271350795a1",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"MGLyLdIUkLc",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"1.1",
+				"desc":"Showing features of the map."
+			}
+		]
 	},
 	{
 		"context":"map",
@@ -130,9 +157,18 @@
 		"forum":"https://forums.uberent.com/threads/66207/page-2#post-1039187",
 		"display_name":"Prof X",
 		"description":"A 2v2 map with sheltered spawns, a large central battlefield (in the shape of an X), and a back area accessible only by air. Spawns only work with 2 armies, ie 3v3 will work but not 1v1v1.",
-		"version":"1",
+		"version":"0.1",
 		"date":"2014/11/29",
-		"md5":"df6f0eea5783e4ada9e2c877a84527bc"
+		"md5":"df6f0eea5783e4ada9e2c877a84527bc",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"G9mNntvH1Io",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"0.1",
+				"desc":"Showing features of the map."
+			}
+		]
 	},
 	{
 		"context":"map",
@@ -164,7 +200,16 @@
 		"description":"A 500 radius lava planet designed for 2 armies (up to 3v3 recommended), with a single spawn per army. Contains choke points, open areas, and sporadic metal spots.",
 		"version":"1",
 		"date":"2014/12/22",
-		"md5":"a563cb48c51c182e73ec1f5b91fdb348"
+		"md5":"a563cb48c51c182e73ec1f5b91fdb348",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"xEMF9xk89QQ",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"1",
+				"desc":"Showing features of the map."
+			}
+		]
 	},
 	{
 		"context":"map",
@@ -222,5 +267,14 @@
 		"version":"2",
 		"date":"2014/12/12",
 		"md5":"05d55d2698c07ac1b2fa21fc8e07f635"
+	},
+	{
+		"context":"map",
+		"author":"zx0",
+		"forum":"https://forums.uberent.com/threads/67006/",
+		"display_name":"L472_",
+		"description":"A small, non-symmetrical map, with generous metal spots scattered in between choke points and lava lakes.",
+		"version":"1",
+		"date":"2015/01/05"
 	}
 ]
