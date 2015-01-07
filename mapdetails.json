@@ -85,6 +85,76 @@
 	},
 	{
 		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Bridge Walkway",
+		"description":"1v1. Two small islands connected by a large narrow bridge in a sea of lava. Two unconnected islands are nearby for small expansion.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"a4c24aac12598699af2d3708cd500551"
+	},
+	{
+		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Fort Wars",
+		"description":"Close quarters symmetric 4v4 map. 2 spawns in a walled fort, large mountains make many choke points elsewhere. 2 isolated spawns are on the back of the planet.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"e3b2c86dbb2b3e4c7e9c28d3b17d536b"
+	},
+	{
+		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Fort War",
+		"description":"Close Quarters symmetric 1v1. Each player starts in a walled fort, backed by large plateaus taking up most of the map. A narrow canyon along the equator separates the plateaus.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"fd6139933553edb25cacce0357e5e003"
+	},
+	{
+		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Iceberg Start",
+		"description":"A mainly water symmetric 1v1. You can spawn on a small island, or a raised iceberg.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"3eb2f4c3023d768e8074d7236ac0dfd0"
+	},
+	{
+		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Simple Moon Balanced",
+		"description":"A basic moon, each spawn has 4 metal spots.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"f17d8b8221a2493df67763309f3a9c77"
+	},
+	{
+		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Water with Bridge",
+		"description":"Symmetric 1v1. Mountain island spawns, connected by bridges to a small land mass with dense metal spots. The rest of the map is largely water.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"a6e89964c6421a248313ddf48c000e79"
+	},
+	{
+		"context":"map",
+		"author":"Crashoverride",
+		"forum":"https://forums.uberent.com/threads/67024/",
+		"display_name":"Water Forts",
+		"description":"2 army, mainly water symmetric map. Each army has one large spawn, with a choice of spawning on one of two plateaus, or in the water.",
+		"version":"1",
+		"date":"2015/01/05",
+		"md5":"422e442e96d66a2dc22b762d3178f268"
+	},
+	{
+		"context":"map",
 		"author":"FartKing",
 		"forum":"https://forums.uberent.com/threads/66849/",
 		"display_name":"Sector 3B",
@@ -130,7 +200,16 @@
 		"description":"An arena map with plenty of well distributed metal spots, with multiple lanes. A smaller version of the map 'Team Arena', meant for 1v1 play.",
 		"version":"1.1",
 		"date":"2014/12/02",
-		"md5":"83fdaeca9675e86e073fad20207c3490"
+		"md5":"83fdaeca9675e86e073fad20207c3490",
+		"youtube":[
+			{
+				"type":"Tutorial",
+				"video":"myDkBPP62f8",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"1.1",
+				"desc":"Showing features of the map."
+			}
+		]
 	},
 	{
 		"context":"map",
@@ -189,6 +268,13 @@
 				"type":"Gameplay",
 				"video":"JCIMRucGYk4",
 				"desc":"Short asymmetric 5v5 gameplay."
+			},
+			{
+				"type":"Tutorial",
+				"video":"-S9lY_R1vFY",
+				"list":"PLy8Q4IYOiCJWBZs_WHEBHns0iBBRElQW7",
+				"version":"13",
+				"desc":"Showing features of the map."
 			}
 		]
 	},
@@ -237,6 +323,16 @@
 				"version":"1"
 			}
 		]
+	},
+	{
+		"context":"map",
+		"author":"pilotrose",
+		"forum":"https://forums.uberent.com/threads/67068/",
+		"display_name":"Argo",
+		"description":"4 player FFA only map. Each player spawns in their own stone henge, equal distance away from their nearest neighbours. There are many choke points and metal spots about the map, with dense metal spots at each pole.",
+		"version":"1",
+		"date":"2015/01/07",
+		"md5":"a70c270bb111db7b122b2c029a47de06"
 	},
 	{
 		"context":"map",
