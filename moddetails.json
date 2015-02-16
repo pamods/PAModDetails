@@ -4,6 +4,31 @@
 		"youtube":[
 			{
 				"type":"Gameplay",
+				"video":"HldZZZqJeFo",
+				"desc":"8 player FFA, using Redenbacher Deluxe and Rolloff Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"D2I5bptxWZ0",
+				"desc":"6 player FFA, using Redenbacher Deluxe and Rollof Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"9hACIY04WiI",
+				"desc":"6 player FFA, using Redenbacher Deluxe and Rollof Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"ktEqQ5qka7E",
+				"desc":"5 player FFA, using Redenbacher Deluxe and Rollof Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"uTDUoy-cbmQ",
+				"desc":"10 player FFA, using Redenbacher Deluxe and Rolloff Remover."
+			},
+			{
+				"type":"Gameplay",
 				"video":"JRwZjOFeFk0",
 				"desc":"Comm Boxing gameplay on a moon using this mod, and Redenbacher Deluxe."
 			},
@@ -27,6 +52,11 @@
 	{
 		"identifier":"com.pa.burntcustard.bBoomBotWars",
 		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"JuUChiWdizs",
+				"desc":"10 player free for all, boom bot wars style."
+			},
 			{
 				"type":"Tutorial",
 				"video":"jVPogbvyUTg",
@@ -109,6 +139,21 @@
 		]
 	},
 	{
+		"identifier":"com.pa.domdom.guma_guma_slide",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"YGNJ_e8gYKQ",
+				"desc":"30 player FFA, on a plain moon with minimal metal spots."
+			},
+			{
+				"type":"Gameplay",
+				"video":"SavFL6Ee_SQ",
+				"desc":"4 player FFA."
+			}
+		]
+	},
+	{
 		"identifier":"com.pa.DeathByDenim.dFavouriteColour",
 		"youtube":[
 			{
@@ -144,6 +189,11 @@
 		"youtube":[
 			{
 				"type":"Gameplay",
+				"video":"770v_anENiQ",
+				"desc":"6 player FFA."
+			},
+			{
+				"type":"Gameplay",
 				"video":"McbRX5JIimM",
 				"desc":"10 player FFA gameplay on a large moon."
 			}
@@ -164,6 +214,41 @@
 		"youtube":[
 			{
 				"type":"Gameplay",
+				"video":"vwwc8dgeoeI",
+				"desc":"10 player FFA using Ant4Lyfe and Redenbacher Deluxe."
+			},
+			{
+				"type":"Gameplay",
+				"video":"vwwc8dgeoeI",
+				"desc":"10 player FFA using Ant4Lyfe and Redenbacher Deluxe."
+			},
+			{
+				"type":"Gameplay",
+				"video":"HldZZZqJeFo",
+				"desc":"8 player FFA, using Redenbacher Deluxe and Rolloff Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"D2I5bptxWZ0",
+				"desc":"6 player FFA, using Redenbacher Deluxe and Rollof Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"9hACIY04WiI",
+				"desc":"6 player FFA, using Redenbacher Deluxe and Rollof Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"ktEqQ5qka7E",
+				"desc":"5 player FFA, using Redenbacher Deluxe and Rollof Remover."
+			},
+			{
+				"type":"Gameplay",
+				"video":"uTDUoy-cbmQ",
+				"desc":"10 player FFA, using Redenbacher Deluxe and Rolloff Remover."
+			},
+			{
+				"type":"Gameplay",
 				"video":"JRwZjOFeFk0",
 				"desc":"Comm Boxing gameplay on a moon using this mod, and Rolloff Remover."
 			},
@@ -171,6 +256,16 @@
 				"type":"Gameplay",
 				"video":"2wYW6799X_k",
 				"desc":"Comm Boxing gameplay on a metal planet using this mod, and Rolloff Remover."
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.orbital_warfare_overhaul",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"CXe41KHUw4w",
+				"desc":"5 player FFA, using the Orbital Warfare Overhaul mod, and the Blips in the Dark mod."
 			}
 		]
 	},
@@ -204,6 +299,16 @@
 				"url":"http://pa-mods.com/mod-database2/images/com.pa.raevn.rcommanderhp_live.png",
 				"desc":"The commander tracker in the HUD",
 				"version":"3.4"
+			}
+		]
+	},
+	{
+		"identifier":"com.pa.sleepykid.Vision_To_Radar",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"CXe41KHUw4w",
+				"desc":"5 player FFA, using the Orbital Warfare Overhaul mod, and the Blips in the Dark mod."
 			}
 		]
 	},
@@ -366,6 +471,16 @@
 		]
 	},
 	{
+		"identifier":"com.warren.pa.superlandmines",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"9UnOUqDKv1I",
+				"desc":"6 player FFA, using the Super Land Mines mod, and the Extremely Efficient Engineers mod."
+			}
+		]
+	},
+	{
 		"identifier":"com.wondible.pa.compact_system_list",
 		"youtube":[
 			{
@@ -373,6 +488,16 @@
 				"video":"PyZ6gDSqSQM",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"1.0.1"
+			}
+		]
+	},
+	{
+		"identifier":"com.wondible.pa.extremely_efficient_engineers",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"9UnOUqDKv1I",
+				"desc":"6 player FFA, using the Super Land Mines mod, and the Extremely Efficient Engineers mod."
 			}
 		]
 	},
@@ -612,6 +737,21 @@
 				"video":"zySxjJ5eDpU",
 				"list":"UUqXYVwZIDo7U7bt8dFU_f2g",
 				"version":"1.0.0"
+			}
+		]
+	},
+	{
+		"identifier":"Rainbow_Racers",
+		"youtube":[
+			{
+				"type":"Gameplay",
+				"video":"z9FHfYrFats",
+				"desc":"42 player race on the Metal Mania circuit."
+			},
+			{
+				"type":"Gameplay",
+				"video":"WIcsC6iFB6g",
+				"desc":"6 player race on the Metal Mania Circuit."
 			}
 		]
 	}
