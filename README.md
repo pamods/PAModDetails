@@ -1,7 +1,7 @@
 PAModDetails
 ============
 
-A place to define additional details and media for PA mods. This additional data can be used by anything that wants to read it (websites, PA Hub plugins, etc).
+A place to define additional details and media for PA mods. This additional data can be used by anything that wants to read it (websites, PA Hub plugins, etc). moddetails.json contains additional data for mods, mapdetails.json contains additional data for maps, modconflicts.json shows what mods conflict with other mods.
 
 * The format is a json array with an entry per mod, mirroring the format of the main mod json found here: https://pamm-mereth.rhcloud.com/api/mod
 * The only required element for an entry in the list is the mod identifier
